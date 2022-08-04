@@ -1,2 +1,2 @@
 言語名：Python3
-エディター：VS Code
+エディター：Visual Studio Code
