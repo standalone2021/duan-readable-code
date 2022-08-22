@@ -6,6 +6,5 @@ with open(ファイルの場所) as dictionary_file:
     print(word)
 ファイルの場所を各自変更してください
 
-python3 task1.py
+python3 task.py
 を実行
-
